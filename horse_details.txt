@@ -1,0 +1,28 @@
+
+GroupA:
+{'Horse ID': 1, 'Horse Name': 'Maximus', 'Jockey Name': 'David Thompson', 'Age': 10, 'Breed': 'Arabian', 'Race Record': '8 wins in 10 races', 'Group': 'A'}
+{'Horse ID': 2, 'Horse Name': 'Ruby', 'Jockey Name': 'Sally Kendall', 'Age': 12, 'Breed': 'Thoroughbred', 'Race Record': '9 wins in 11 races', 'Group': 'A'}
+{'Horse ID': 3, 'Horse Name': 'Ranger', 'Jockey Name': 'John Maxwell', 'Age': 8, 'Breed': 'Appaloosa', 'Race Record': '4 wins in 7 races', 'Group': 'A'}
+{'Horse ID': 4, 'Horse Name': 'Molly', 'Jockey Name': 'Harry Clanden', 'Age': 13, 'Breed': 'Morgan', 'Race Record': '7 wins in 11 races', 'Group': 'A'}
+{'Horse ID': 5, 'Horse Name': 'Joey', 'Jockey Name': 'Belle Kendall', 'Age': 13, 'Breed': 'Warmbloods', 'Race Record': '8 wins in 12 races', 'Group': 'A'}
+
+GroupB:
+{'Horse ID': 6, 'Horse Name': 'Fury', 'Jockey Name': 'Daniel Baker', 'Age': 8, 'Breed': 'Gaited Breeds', 'Race Record': '3 wins in 8 races', 'Group': 'B'}
+{'Horse ID': 7, 'Horse Name': 'Lucky', 'Jockey Name': 'Jonathan Cooper', 'Age': 15, 'Breed': 'Draft Breeds', 'Race Record': '13 wins in 14 races', 'Group': 'B'}
+{'Horse ID': 8, 'Horse Name': 'Dakota', 'Jockey Name': 'Ellie Morgan', 'Age': 8, 'Breed': 'American Quarter', 'Race Record': '5 wins in 10 races', 'Group': 'B'}
+{'Horse ID': 9, 'Horse Name': 'Chad', 'Jockey Name': 'Edward Matthew', 'Age': 10, 'Breed': 'Appaloosa', 'Race Record': '7 wins in 12 races', 'Group': 'B'}
+{'Horse ID': 10, 'Horse Name': 'Dusty', 'Jockey Name': 'Henry Kelson', 'Age': 13, 'Breed': 'Arabian', 'Race Record': '10 wins in 14 races', 'Group': 'B'}
+
+GroupC:
+{'Horse ID': 11, 'Horse Name': 'Sparky', 'Jockey Name': 'Peter Edinson', 'Age': 10, 'Breed': 'Thoroughbred', 'Race Record': '7 wins in 10 races', 'Group': 'C'}
+{'Horse ID': 13, 'Horse Name': 'Nutmeg', 'Jockey Name': 'Jack Davis', 'Age': 9, 'Breed': 'Gaited Breeds', 'Race Record': '6 wins in 9 races', 'Group': 'C'}
+{'Horse ID': 15, 'Horse Name': 'Jackie', 'Jockey Name': 'Louis McKale', 'Age': 10, 'Breed': 'Arabian', 'Race Record': '5 wins in 9 races', 'Group': 'C'}
+{'Horse ID': 17, 'Horse Name': 'Charlie', 'Jockey Name': 'Sara Lennon', 'Age': 10, 'Breed': 'Morgan', 'Race Record': '6 wins in 11 races', 'Group': 'C'}
+{'Horse ID': 19, 'Horse Name': 'Dash', 'Jockey Name': 'Nick Marley', 'Age': 13, 'Breed': 'Appaloosa', 'Race Record': '10 wins in 13 races', 'Group': 'C'}
+
+GroupD:
+{'Horse ID': 12, 'Horse Name': 'Mocha', 'Jockey Name': 'Emma Baker', 'Age': 13, 'Breed': 'Warmbloods', 'Race Record': '9 wins in 15 races', 'Group': 'D'}
+{'Horse ID': 14, 'Horse Name': 'Trixie', 'Jockey Name': 'Helen Ashley', 'Age': 11, 'Breed': 'American Quarter', 'Race Record': '6 wins in 10 races', 'Group': 'D'}
+{'Horse ID': 16, 'Horse Name': 'Hidalgo', 'Jockey Name': 'Carl Peterson', 'Age': 7, 'Breed': 'Draft Breeds', 'Race Record': '3 wins in 5 races', 'Group': 'D'}
+{'Horse ID': 18, 'Horse Name': 'Billy ', 'Jockey Name': 'Hardin Wellington', 'Age': 10, 'Breed': 'Arabian', 'Race Record': '8 wins in 9 races', 'Group': 'D'}
+{'Horse ID': 20, 'Horse Name': 'Ollie', 'Jockey Name': 'Kate Parker', 'Age': 12, 'Breed': 'American Quarter', 'Race Record': '9 wins in 13 races', 'Group': 'D'}
